@@ -1,0 +1,53 @@
+{
+    "Ben": {
+        "accountType": "Customer",
+        "current": 48.0,
+        "password": "1eeeR",
+        "savings": 200.0
+    },
+    "VIN": {
+        "accountType": "Administrator",
+        "current": 33.0,
+        "employeeNumber": "N/A",
+        "password": "123q",
+        "salary": 0.0,
+        "savings": 0.0,
+        "username": "VIN"
+    },
+    "VVV": {
+        "accountType": "Employee",
+        "balance": 0.0,
+        "hasSavings": false,
+        "password": "VV",
+        "savingsAmount": 0.0,
+        "savingsDuration": 0
+    },
+    "WIN": {
+        "accountType": "Employee",
+        "current": 0.0,
+        "employeeNumber": "001",
+        "password": "1234",
+        "salary": 100000.0,
+        "savings": 0.0
+    },
+    "asdf": {
+        "accountType": "Customer",
+        "current": 980.0,
+        "password": "12qw",
+        "savings": 200.0
+    },
+    "win": {
+        "accountType": "Employee",
+        "balance": 0.0,
+        "hasSavings": false,
+        "password": "22",
+        "savingsAmount": 0.0,
+        "savingsDuration": 0
+    },
+    "winnie": {
+        "accountType": "Customer",
+        "current": 51.0,
+        "password": "1eeeR",
+        "savings": 0.0
+    }
+}
